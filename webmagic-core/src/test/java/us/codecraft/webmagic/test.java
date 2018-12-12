@@ -6,7 +6,8 @@ public class test {
         return super.equals(obj);
     }
 
-    public static  void test(){
-        System.out.println("ooooooooooooooooooooooooooooo");
+    @Override
+    public int hashCode() {
+        return super.hashCode();
     }
 }
