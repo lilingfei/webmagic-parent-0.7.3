@@ -11,4 +11,6 @@ public class test {
         System.out.println("aa++a+xinjiade");
 
     }
+   public static void hh(){
+       System.out.println("测试");
 }
