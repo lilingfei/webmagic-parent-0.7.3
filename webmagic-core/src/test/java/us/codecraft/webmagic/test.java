@@ -6,4 +6,9 @@ public class test {
         System.out.println("abb");
 
     }
+
+    public static void gg(String[] args) {
+        System.out.println("aaa");
+
+    }
 }
