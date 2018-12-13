@@ -23,4 +23,8 @@ public class test {
    public static void hh(){
        System.out.println("a加的方法2");
    }
+   
+   public static void hh(){
+       System.out.println("00000000000000000000000000000000");
+   }
 }
