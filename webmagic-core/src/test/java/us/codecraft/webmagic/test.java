@@ -17,4 +17,10 @@ public class test {
     public static void hh() {
         System.out.println("本地添加的测试git");
     }
+    public static void hh(){
+       System.out.println("a加的方法1");
+   }
+   public static void hh(){
+       System.out.println("a加的方法2");
+   }
 }
