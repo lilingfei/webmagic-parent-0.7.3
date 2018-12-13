@@ -11,6 +11,10 @@ public class test {
         System.out.println("aa++a+试试看的啊");
 
     }
-   public static void hh(){
-       System.out.println("测试q");
+   public static void hh() {
+        System.out.println("测试q");
+    }
+    public static void hh() {
+        System.out.println("本地添加的测试git");
+    }
 }
