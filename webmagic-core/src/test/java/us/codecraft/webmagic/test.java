@@ -8,7 +8,7 @@ public class test {
     }
 
     public static void gg(String[] args) {
-        System.out.println("aaa");
+        System.out.println("aa++a");
 
     }
 }
