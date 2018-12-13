@@ -26,4 +26,8 @@ public class test {
     public static void hh(){
         System.out.println("a**********************");
     }
+
+   public static void hh(){
+       System.out.println("00000000000000000000000000000000");
+   }
 }
