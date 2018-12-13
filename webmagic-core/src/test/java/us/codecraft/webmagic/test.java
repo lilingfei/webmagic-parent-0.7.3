@@ -12,5 +12,5 @@ public class test {
 
     }
    public static void hh(){
-       System.out.println("测试");
+       System.out.println("测试q");
 }
