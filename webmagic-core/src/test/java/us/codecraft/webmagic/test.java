@@ -13,4 +13,11 @@ public class test {
     }
    public static void hh(){
        System.out.println("测试q");
+   }
+    public static void hh(){
+       System.out.println("a加的方法1");
+   }
+   public static void hh(){
+       System.out.println("a加的方法2");
+   }
 }
